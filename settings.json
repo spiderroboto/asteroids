@@ -1,0 +1,7 @@
+{
+    "player_speed": 200,
+    "player_turn_speed": 300,
+    "player_shoot_cooldown": 0.25,
+    "asteroid_min_radius": 20,
+    "asteroid_spawn_rate": 1.2
+}
