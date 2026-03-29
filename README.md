@@ -50,4 +50,8 @@ In settings:
 
 ## Development
 
+<<<<<<< HEAD
 The game uses Pygame for graphics and input handling. Objects wrap around the screen edges. Asteroids spawn at random edges and move in random directions.
+=======
+The game uses Pygame for graphics and input handling. Objects wrap around the screen edges. Asteroids spawn at random edges and move in random directions.
+>>>>>>> ecefed72590af18a4b9d13385953cf224337665c
